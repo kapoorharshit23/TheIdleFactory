@@ -1,2 +1,2 @@
 # TheIdleFactory
-this is the beginning..!!
+All Android games and files!
